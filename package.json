@@ -25,7 +25,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://Jindo-Dog.githun.io/react_page",
+  "homepage": "https://Jindo-Dog.github.io/react_page",
   "eslintConfig": {
     "extends": [
       "react-app",
